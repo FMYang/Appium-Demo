@@ -35,6 +35,8 @@ Appium inspector模拟器配置
   "appium:deviceName": "杨方明的iPhone"
 }
 
+安装Appium-Python-Client
+-> pip3 install Appium-Python-Client
 
 python测试，启动虚拟环境
 
